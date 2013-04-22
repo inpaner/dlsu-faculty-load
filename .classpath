@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Dropbox/Programming/Commons/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Dropbox/A2012 T3/INTROSE S18-B/Faculty Load Other/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Dropbox/Programming/Commons/poi-3.9/poi-3.9-20121203.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
